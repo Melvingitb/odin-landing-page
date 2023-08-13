@@ -61,8 +61,8 @@ a {
 }
 
 .puppy {
-    height: 300px;
-    width: auto;
+    max-width: 450px;
+    height: auto;
     flex-shrink: 1;
 }
 
@@ -96,8 +96,8 @@ second section
 }
 
 .pup {
-    height: 200px;
-    width: auto;
+    max-width: 200px;
+    height: auto;
     border: 6px solid #3882F6;
     border-radius: 15px;
 }
