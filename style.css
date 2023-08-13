@@ -55,7 +55,7 @@ a {
 
 .top-subtext {
     font-size: 18px;
-    color: #F9FAF8;
+    color: #E5E7EB;
     margin-bottom: 16px;
 }
 
@@ -71,4 +71,44 @@ a {
     color: #F9FAF8;
     padding: 8px 24px;
     border-radius: 15px;
+}
+
+/*
+second section
+*/
+
+.second-container {
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.header2 {
+    font-size: 36px;
+    font-weight: 900;
+    /*
+    margin: 20px 0px;
+    */
+    margin-bottom: 35px;
+
+    color: #1F2937;
+}
+
+.pup {
+    height: 200px;
+    width: auto;
+    border: 6px solid #3882F6;
+    border-radius: 15px;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.pictext {
+    max-width: 200px;
+    font-size: 18px;
+    color: #1F2937;
 }
