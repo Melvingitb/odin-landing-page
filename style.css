@@ -160,6 +160,7 @@ fourth section
 .fourth-header {
     color: #F9FAF8;
     font-size: 32px;
+    font-weight: bold;
 }
 
 .fourth-subtext {
@@ -174,4 +175,18 @@ fourth section
     padding: 8px 28px;
     border-radius: 15px;
     border: solid #F9FAF8;
+}
+
+/*
+footer
+*/
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #E5E7EB;
+    padding: 40px 0px;
 }
