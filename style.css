@@ -124,3 +124,19 @@ third section
     padding-top: 130px;
     padding-bottom: 100px;
 }
+
+.third-content {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.person {
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
