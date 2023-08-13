@@ -44,7 +44,9 @@ a {
 .top-content {
     display: flex;
     justify-content: space-between;
+    /*
     overflow: hidden;
+    */
 }
 
 .top-text {
